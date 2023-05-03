@@ -1,0 +1,21 @@
+.container {
+    margin-top: 10%;
+  }
+
+.tittle{
+    text-align: center;
+}
+
+.inputs{
+    width: 50%;
+}
+
+.card{
+    height:fit-content;
+}
+
+.text{
+    margin-top: 2%;
+    font-weight: normal;
+}
+
